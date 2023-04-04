@@ -1,0 +1,15 @@
+.layout {
+    scroll-behavior: smooth;
+    margin-bottom: 1em;
+    overflow-x: hidden;
+}
+
+.left-side {
+    position: fixed;
+}
+
+.right-side {
+    display: inline;
+    margin-inline-start: 21em;
+    margin-inline-end: 1.5em;
+}

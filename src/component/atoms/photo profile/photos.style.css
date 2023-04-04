@@ -1,0 +1,7 @@
+img {
+    border-radius: 50%;
+    height: 10.5em;
+    width: 11em;
+    display: block;
+    margin: 10em auto 0 auto !important;
+}

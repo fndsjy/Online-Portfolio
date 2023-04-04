@@ -1,0 +1,16 @@
+#interests {
+    margin-top: 12em;
+    color: rgb(143, 141, 141);
+}
+
+#interests h1 {
+    font-size: 54px;
+    margin-bottom: 1em;
+    color: rgb(66, 66, 66);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#interests p {
+    text-align: justify;
+    margin-bottom: 12em;
+}

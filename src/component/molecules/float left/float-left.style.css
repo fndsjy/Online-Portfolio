@@ -1,0 +1,5 @@
+.float-left {
+    overflow: hidden;
+    z-index: 2;
+    background-color: rgb(190, 100, 58);
+}

@@ -1,0 +1,29 @@
+#about {
+    display: block;
+    margin-block: 12em;
+    color: rgb(143, 141, 141);
+}
+
+#about h1 {
+    font-size: 54px;
+    color: rgb(66, 66, 66);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#about h5 {
+    margin-bottom: 2em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#about p {
+    text-align: justify;
+}
+
+#about span {
+    color: rgb(190, 100, 58);
+}
+
+#about ion-icon {
+    color: rgb(75, 75, 75);
+    font-size: 48px;
+}
